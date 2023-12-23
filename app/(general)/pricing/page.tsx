@@ -4,11 +4,11 @@ export const metadata = {
   description: 'Pricing',
 };
 
-export default function ContactPage()
+export default function PricingPage()
 {
   return (
     <>
-      <span className="text-7xl">Contact Page</span>
+      <span className="text-7xl">Pricing Page</span>
     </>
   )
 }
